@@ -3,4 +3,4 @@ hello world!
 Hello GitHub!
 SSH!
 user1 change file
-another line from user1
+line from user2
