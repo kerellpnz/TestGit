@@ -4,3 +4,4 @@ Hello GitHub!
 SSH!
 user1 change file
 line from user2
+lesson about rebase
